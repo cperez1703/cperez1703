@@ -18,7 +18,7 @@ A feature-rich application replicating the core functionalities of Discord, prov
 ## Skills
 
 - **Languages**: JavaScript, TypeScript, C++
-- **Frameworks & Libraries**: React, Node.js, Express, Prisma
+- **Frameworks & Libraries**: React, Node.js, Next.js
 
 ## Connect with Me
 
