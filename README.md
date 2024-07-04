@@ -5,7 +5,7 @@ I’m Calvin Perez, an aspiring software engineer dedicated to building efficien
 
 - 🌱 I’m currently learning advanced backend development techniques and exploring cloud computing solutions.
 - 💬 Ask me about web development and real-time applications.
-- 📫 How to reach me: [Your Email](mailto:c.jay.perez1703@gmail.com)
+- 📫 How to reach me: [c.jay.perez1703@gmail.com](mailto:c.jay.perez1703@gmail.com)
 - ⚡ Fun fact: My cat is my mascot.
 
 ## My Projects
