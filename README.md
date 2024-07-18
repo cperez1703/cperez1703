@@ -13,7 +13,6 @@ I’m Calvin Perez, an aspiring software engineer dedicated to building efficien
 ### Yappr
 A feature-rich application replicating the core functionalities of Discord, providing real-time messaging, voice and video calls, and extensive member management features.
 - [Repository](https://github.com/cperez1703/Yappr)
-- [Live Demo](https://yappr-production.up.railway.app)
 
 ## Skills
 
