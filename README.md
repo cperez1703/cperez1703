@@ -7,11 +7,10 @@ I’m Calvin Perez, an aspiring software engineer dedicated to building efficien
 - 💬 Ask me about web development and real-time applications.
 - 📫 How to reach me: [c.jay.perez1703@gmail.com](mailto:c.jay.perez1703@gmail.com)
 - ⚡ Fun fact: My cat is my mascot.
-- 
 ## Skills
 
-- **Languages**: JavaScript, TypeScript, C++
-- **Frameworks & Libraries**: React, Node.js, Next.js
+- **Languages**: JavaScript, TypeScript, C++, Python
+- **Frameworks & Libraries**: React, Node.js, Next.js, TensorFlow
 
 ## Connect with Me
 
